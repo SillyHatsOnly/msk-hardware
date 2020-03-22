@@ -89,6 +89,9 @@ a {
     margin-bottom: 140px;
     font-family: 'Press Start 2P', cursive;
 }
+.header__arrow a {
+    color: inherit;
+}
 
 .header__slogan{
     font-size: 38px;
