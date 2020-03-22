@@ -1,0 +1,363 @@
+html, body {
+    font-family: 'Merriweather', serif;
+    font-size: 16px;
+    line-height: 1.5;
+    min-width: 280px;
+}
+
+img {
+    display: inline-block;
+}
+
+video {
+    display: inline-block;
+}
+
+a {
+    transition: 0.2s ease-out;
+}
+
+* {
+    box-sizing: border-box;
+}
+/*........................................
+
+        GRID
+
+........................................*/
+.container{
+    width: 1260px;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.row:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+.col-4{
+    width: 400px;
+    margin-right: 30px;
+    float: left;
+}
+
+.col-4:last-child{
+    margin-right: 0px;
+}
+
+.col-3{
+    width: 300px;
+    margin-right: 15px;
+    float: left;
+}
+
+.col-3:last-child{
+    margin-right: 0px;
+}
+
+/*........................................
+
+        HEADER
+
+........................................*/
+.header {
+    background: #343c4e;
+    background-image: url("../img/bg/channels4_banner.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    
+    height: 100vh;
+    min-height: 400px;
+    
+    color: #FFF;
+    text-align: center;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    position: relative;
+}
+
+
+.header__title{
+    font-size: 82px;
+    margin-bottom: 140px;
+    font-family: 'Press Start 2P', cursive;
+}
+
+.header__slogan{
+    font-size: 38px;
+    line-height: 20px;
+    margin-bottom: 70px;
+    font-family: 'Merriweather', serif;
+}
+
+.header__arrow{
+    font-size: 78px;
+    width: 60px;
+    height: 50px;
+    margin-left: -30px;
+    
+    position: absolute;
+    bottom: 50px;
+    left: 50%;
+}
+
+/*........................................
+
+        MAIN PART
+
+........................................*/
+.main__part{
+    padding-top: 70px;
+    padding-bottom: 100px;
+}
+
+.block{
+    margin-bottom: 40px;
+}
+
+.title{
+    font-size: 52px;
+    margin-bottom: 40px;
+    font-family: 'Merriweather', serif;
+    text-align: center;
+}
+
+.block-picture{
+    margin-bottom: 7px;
+}
+
+.block-picture img{
+    max-width: 100%;
+    height: auto;
+}
+
+.block-title{
+    font-size: 24px;
+    line-height: normal;
+    margin-bottom: 5px;
+}
+
+.block-title a {
+    text-decoration: none;
+    color: #000;
+    border-bottom: 1px solid #FFF;
+}
+
+.block-title a:hover {
+    color: #0052C2;
+    border-color: rgba(0, 82, 194, 0.3);
+}
+
+
+/*........................................
+
+        SINGLE PAGE
+
+........................................*/
+.photo-single-page{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+}
+
+.single-paige_title {
+    font-size: 32px;
+    margin-bottom: 50px;
+    font-family: 'Press Start 2P', cursive;
+    
+}
+
+.photo-single-page img {
+    margin-bottom: 50px;
+    max-width: 100%;
+    height: auto;
+}
+
+.photo-single-page video {
+    margin-bottom: 50px;
+    max-width: 100%;
+    height: auto;
+}
+
+.button-back{
+    font-weight: 700;
+    font-family: 'Press Start 2P', cursive;
+    text-decoration: none;
+    color: rgba(0, 50, 0, 1);
+    text-transform: uppercase;
+    letter-spacing: 1.6px;
+    
+    display: inline-block;
+    
+    border-width: 2px;
+    border-color: rgba(0, 50, 0, 1);
+    border-style: solid;
+    border-radius: 50px;
+    
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 23px;
+    padding-right: 23px;
+    
+    margin-bottom: 13px;
+    
+    transition: 0.2s ease-out;
+}
+
+.button-back:hover{
+    color: #FFF;
+    background-color: rgba(0, 50, 0, 1);
+}
+
+/*........................................
+
+        FOOTER
+
+........................................*/
+.footer{
+    background-color: rgba(0, 50, 0, 1);
+    color: rgba(0, 255, 0, 0.6);
+    padding-top: 90px;
+    padding-bottom: 190px;
+}
+
+.footer p{
+    margin-top: 0px;
+    margin-bottom: 15px;
+}
+
+p.footer__name {
+    font-size: 20px;
+    margin-bottom: 10px;
+    line-height: normal;
+}
+
+p.footer__social{
+    font-size: 24px;
+    color: #FFF;
+}
+
+p.footer__social-icons{
+    color: #FFF;
+    font-size: 42px;
+}
+
+p.footer__social-icons a{
+    color: #FFF;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+p.footer__social-icons a:last-child{
+    margin-right: 0px;
+}
+
+p.footer__social-icons a:hover{
+    color: #FF0;
+}
+
+.button{
+    font-weight: 700;
+    font-family: 'Press Start 2P', cursive;
+    text-decoration: none;
+    color: #FFF;
+    text-transform: uppercase;
+    letter-spacing: 1.6px;
+    
+    display: inline-block;
+    
+    border-width: 2px;
+    border-color: #FFF;
+    border-style: solid;
+    border-radius: 50px;
+    
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-left: 23px;
+    padding-right: 23px;
+    
+    margin-bottom: 13px;
+    
+    transition: 0.2s ease-out;
+}
+
+.button:hover{
+    color: rgba(0, 50, 0, 1);
+    background-color: #FFF;
+}
+
+/*........................................
+
+        MEDIA
+
+........................................*/
+@media (max-width: 1279px) {
+    
+    .container {
+        width: 100%;
+    }
+    
+    .col-4{
+        width: 100%;
+        margin: 0;
+        margin-bottom: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        text-align: center;
+    }
+    
+    .col-3{
+        width: 100%;
+        margin: 0;
+        margin-bottom: 30px;
+        padding-left: 15px;
+        padding-right: 15px;
+        text-align: center;
+    }
+    
+    .header {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    
+    .header__title {
+        font-size: 32px;
+        line-height: 48px;
+        margin-bottom: 15px;
+    }
+    
+    .header__slogan {
+        font-size: 22px;
+        line-height: 38px;
+    }
+    
+    .main__part {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+    
+    .title {
+        font-size: 30px;
+    }
+    
+    .footer {
+        padding-top: 40px;
+        padding-bottom: 60px;
+    }
+    
+    .single-paige_title {
+        font-size: 21px;
+    }
+    
+    .photo-single-page {
+        padding-top: 40px;
+        padding-bottom: 30px;
+    }
+}
