@@ -10,5 +10,5 @@ photos:
     - video: video_25@18-01-2020.mp4
       poster: video_25@18-01-2020.png
     - video: video_26@18-01-2020.mp4
-      poster: video_26@18-01-2020
+      poster: video_26@18-01-2020.png
 ---
