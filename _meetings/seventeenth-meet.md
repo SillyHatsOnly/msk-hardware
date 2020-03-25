@@ -1,4 +1,4 @@
-﻿---
+---
 layout: photoarticle
 title: Встреча от 28-02-2020
 date: 2020-02-28
