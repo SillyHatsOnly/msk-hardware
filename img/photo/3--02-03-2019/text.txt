@@ -1,0 +1,4 @@
+    - photo_26@02-03-2019.jpg
+    - photo_27@02-03-2019.jpg
+    - photo_29@02-03-2019.jpg
+text.txt

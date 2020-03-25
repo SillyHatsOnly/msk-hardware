@@ -1,0 +1,6 @@
+    - photo_140@07-09-2019.jpg
+    - photo_141@07-09-2019.jpg
+    - photo_142@07-09-2019.jpg
+    - photo_143@07-09-2019.jpg
+    - photo_144@07-09-2019.jpg
+text.txt
