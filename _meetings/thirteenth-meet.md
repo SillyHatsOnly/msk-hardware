@@ -1,4 +1,4 @@
-﻿---
+---
 layout: photoarticle
 title: Встреча от 09-09-2019
 date: 2019-09-09
