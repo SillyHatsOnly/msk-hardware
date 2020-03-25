@@ -14,9 +14,15 @@ layout: default
         {% assign offset = forloop.index0 | times: 4 %}
         {% for photo in page.photos limit: 4 offset:offset %}
         <div class="col-3">
+            {% if photo.video %}
+            <video src="/video/video/{{ page.assets }}/{{ photo.video }}"
+                   poster="/video/{{ page.assets }}/{{ photo.poster }}"
+                   width="300" controls preload="none"></video>
+            {% else %}
             <a href="/img/photo/big/{{ page.assets }}/{{ photo }}">
                 <img src="/img/photo/{{ page.assets }}/{{ photo }}" alt="">
             </a>
+            {% endif %}
         </div>
         {% endfor %}
     </div>
