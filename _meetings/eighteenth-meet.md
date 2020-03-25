@@ -128,6 +128,4 @@ photos:
       poster: video_15@12-02-2020.png
     - video: video_16@25-03-2020.mp4
       poster: video_16@25-03-2020.png
-    - video: video_24@06-01-2020.mp4
-      poster: video_24@06-01-2020.png
 ---
