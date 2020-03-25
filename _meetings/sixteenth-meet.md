@@ -1,4 +1,4 @@
-﻿---
+---
 layout: photoarticle
 title: Встреча от 18-01-2020
 date: 2020-01-18
