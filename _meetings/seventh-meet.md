@@ -1,4 +1,4 @@
-﻿---
+---
 layout: photoarticle
 title: Встреча от 16-06-2019
 date: 2019-06-16
