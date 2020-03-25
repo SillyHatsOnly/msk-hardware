@@ -1,7 +1,0 @@
-    - photo_164@28-02-2020.jpg
-    - photo_165@28-02-2020.jpg
-    - photo_166@28-02-2020.jpg
-    - photo_167@28-02-2020.jpg
-    - photo_168@28-02-2020.jpg
-    - photo_169@28-02-2020.jpg
-text.txt

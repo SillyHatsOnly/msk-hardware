@@ -1,3 +1,0 @@
-    - photo_162@18-01-2020.jpg
-    - photo_163@18-01-2020.jpg
-text.txt

@@ -1,8 +1,0 @@
-    - photo_113@16-06-2019.jpg
-    - photo_114@16-06-2019.jpg
-    - photo_115@16-06-2019.jpg
-    - photo_116@16-06-2019.jpg
-    - photo_117@16-06-2019.jpg
-    - photo_118@19-06-2019.jpg
-    - photo_119@20-06-2019.jpg
-text.txt

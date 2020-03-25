@@ -1,4 +1,0 @@
-    - photo_132@20-07-2019.jpg
-    - photo_133@20-07-2019.jpg
-    - photo_134@20-07-2019.jpg
-text.txt
