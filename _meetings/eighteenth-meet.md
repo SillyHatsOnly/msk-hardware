@@ -1,4 +1,4 @@
----
+﻿---
 layout: photoarticle
 title: 3D-printer в 2019-2020
 date: 2020-03-10
@@ -7,16 +7,9 @@ assets: 0--3d-printer
 photos:
     - photo_1@15-03-2019.jpg
     - photo_2@20-03-2019.jpg
-    - photo_4@12-06-2019.jpg
-    - photo_5@12-06-2019.jpg
     - photo_6@15-06-2019.jpg
     - photo_7@15-06-2019.jpg
     - photo_8@18-06-2019.jpg
-    - photo_9@05-10-2019.jpg
-    - photo_10@5-10-2019.jpg
-    - photo_11@5-10-2019.jpg
-    - photo_12@5-10-2019.jpg
-    - photo_13@5-10-2019.jpg
     - photo_14@5-10-2019.jpg
     - photo_15@5-10-2019.jpg
     - photo_16@5-10-2019.jpg
@@ -87,7 +80,6 @@ photos:
     - photo_81@12-02-2020.jpg
     - photo_82@12-02-2020.jpg
     - photo_83@21-02-2020.jpg
-    - photo_85@25-03-2020.jpg
     - photo_86@25-03-2020.jpg
     - photo_87@25-03-2020.jpg
     - photo_88@25-03-2020.jpg
@@ -100,8 +92,6 @@ photos:
       poster: video_1@08-12-2019.png
     - video: video_2@08-12-2019.mp4
       poster: video_2@08-12-2019.png
-    - video: video_3@06-01-2020.mp4
-      poster: video_3@06-01-2020.png
     - video: video_4@11-02-2020.mp4
       poster: video_4@11-02-2020.png
     - video: video_5@11-02-2020.mp4
@@ -126,6 +116,4 @@ photos:
       poster: video_14@12-02-2020.png
     - video: video_15@12-02-2020.mp4
       poster: video_15@12-02-2020.png
-    - video: video_16@25-03-2020.mp4
-      poster: video_16@25-03-2020.png
 ---
