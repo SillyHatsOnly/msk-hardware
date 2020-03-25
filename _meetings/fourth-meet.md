@@ -1,4 +1,4 @@
-﻿---
+---
 layout: photoarticle
 title: Встреча от 23-03-2019
 date: 2019-03-23
