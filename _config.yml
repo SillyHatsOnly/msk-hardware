@@ -1,3 +1,7 @@
+title: Клуб московских hardware-программистов
 collections:
-  articles:
+  meetings:
     output: true
+    sort_by: date
+    permalink: /blog/:title:output_ext
+markdown: kramdown
