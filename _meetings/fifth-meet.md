@@ -9,12 +9,5 @@ photos:
     - photo_47@30-03-2019.jpg
     - photo_48@30-03-2019.jpg
     - photo_49@30-03-2019.jpg
+    - youtube: 0jBYgWKaasc
 ---
-
-<div class="row">
-    <div class="col-3">
-        <iframe width='300' height="250" src="https://www.youtube.com/embed/0jBYgWKaasc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    </div>
-</div>
-
-
