@@ -2,7 +2,7 @@
 layout: photoarticle
 title: Встреча от 06-04-2019
 date: 2019-04-06
-preview: /img/photo/6--06-04-2019/photo_98@06-04-2019.jpg
+preview: /img/photo/6--06-04-2019/photo_98@06-04-2019.jpeg
 assets: 6--06-04-2019
 photos:
     - photo_50@06-04-2019.jpg
