@@ -88,6 +88,47 @@ photos:
     - photo_91@25-03-2020.jpg
     - photo_92@25-03-2020.jpg
     - photo_93@25-03-2020.jpg
+    - photo_94@05-07-2020.jpg
+    - photo_95@05-07-2020.jpg
+    - photo_96@05-07-2020.jpg
+    - photo_97@05-07-2020.jpg
+    - photo_98@05-07-2020.jpg
+    - photo_99@05-07-2020.jpg
+    - photo_100@05-07-2020.jpg
+    - photo_101@05-07-2020.jpg
+    - photo_102@06-07-2020.jpg
+    - photo_103@06-07-2020.jpg
+    - photo_104@06-07-2020.jpg
+    - photo_105@06-07-2020.jpg
+    - photo_106@06-07-2020.jpg
+    - photo_107@06-07-2020.jpg
+    - photo_108@06-07-2020.jpg
+    - photo_109@06-07-2020.jpg
+    - photo_110@06-07-2020.jpg
+    - photo_111@08-07-2020.jpg
+    - photo_112@08-07-2020.jpg
+    - photo_113@13-07-2020.jpg
+    - photo_114@13-07-2020.jpg
+    - photo_115@13-07-2020.jpg
+    - photo_116@13-07-2020.jpg
+    - photo_117@13-07-2020.jpg
+    - photo_118@13-07-2020.jpg
+    - photo_119@13-07-2020.jpg
+    - photo_120@13-07-2020.jpg
+    - photo_121@14-07-2020.jpg
+    - photo_122@14-07-2020.jpg
+    - photo_123@14-07-2020.jpg
+    - photo_124@14-07-2020.jpg
+    - photo_125@14-07-2020.jpg
+    - photo_126@14-07-2020.jpg
+    - photo_127@14-07-2020.jpg
+    - photo_128@14-07-2020.jpg
+    - photo_129@17-07-2020.jpg
+    - photo_130@17-07-2020.jpg
+    - photo_131@18-07-2020.jpg
+    - photo_132@18-07-2020.jpg
+    - photo_133@18-07-2020.jpg
+    - photo_134@18-07-2020.jpg
     - video: video_1@08-12-2019.mp4
       poster: video_1@08-12-2019.png
     - video: video_2@08-12-2019.mp4
