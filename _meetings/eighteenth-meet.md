@@ -116,7 +116,6 @@ photos:
     - photo_119@13-07-2020.jpg
     - photo_120@13-07-2020.jpg
     - photo_121@14-07-2020.jpg
-    - photo_122@14-07-2020.jpg
     - photo_123@14-07-2020.jpg
     - photo_124@14-07-2020.jpg
     - photo_125@14-07-2020.jpg
